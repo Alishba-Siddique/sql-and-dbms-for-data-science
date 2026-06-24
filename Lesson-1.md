@@ -75,9 +75,9 @@ Same Customer as same id
 If we add age in name and phone it will become super key then it will not be minimum so not candidate key
 
 - #### Primary Key 
- - Unique Identifier ( Not Null ) ( No Repetitions )
- - Only one Primary key
- - Primary Key is Subset of Candidate Key
+  - Unique Identifier ( Not Null ) ( No Repetitions )
+  - Only one Primary key
+  - Primary Key is Subset of Candidate Key
 
 | s_id |
 | --- |
@@ -90,8 +90,8 @@ $\text{Primary Key} \subseteq \text{Candidate Key} \subseteq \text{Super Key}$
 <img width="324" height="295" alt="image" src="https://github.com/user-attachments/assets/0ef9d8e6-3f74-49a6-bda1-dd7524e31884" />
 
 - #### Unique Key:
- - All Unique value
- - It can be null
+  - All Unique value
+  - It can be null
 e.g.
  CNIC -> Unique
  Childern -> CNIC No. -> Null
