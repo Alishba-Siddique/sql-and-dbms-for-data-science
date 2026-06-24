@@ -97,8 +97,7 @@ e.g.
  Childern -> CNIC No. -> Null
 
 - #### Foriegn Key
-  - 
-
+  - a column (or set of columns) in one table that links to the primary key (or a unique key) in another table
  <table>
 <tr>
 <td>
@@ -109,7 +108,7 @@ Customer Name
 | A | Carie |
 | B | Jane |
   |
-  v
+  >
   Primary Key
   
 </td>
@@ -126,7 +125,7 @@ Customer Order
 | B | 46 | T | 26 |
 | A | 56 | D | 21 |
   |
-  v
+  >
   Foriegn Key
 
 
